@@ -1,0 +1,15 @@
+--nofft
+--genafpair
+--op 8.0
+--ep 2.0
+--lop -8.0
+--lexp -2.0
+--LOP -16.0
+--LEXP -0.5
+--aamatrix configs/cfg1/cfg1.aamatrix
+--weighti 4.0
+--maxiterate 1000
+--treeout
+--reorder
+
+--nofft --genafpair --op 8.0 --ep 2.0 --lop -8.0 --lexp -2.0 --LOP -16.0 --LEXP -0.5 --aamatrix configs/cfg1/cfg1.aamatrix --weighti 4.0 --maxiterate 1000 --treeout --reorder

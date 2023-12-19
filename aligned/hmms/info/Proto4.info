@@ -1,0 +1,17 @@
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             Proto4.aligned
+# output HMM file:                  hmms/Proto4.hmm
+# name (the single) HMM:            Proto4
+# output directed to file:          hmms/info/Proto4.info
+# processed alignment resaved to:   hmms/info/Proto4.stockholm
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     Proto4                 250    62    50     1.64  1.106 
+
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03

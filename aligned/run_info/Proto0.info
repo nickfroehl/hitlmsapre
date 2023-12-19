@@ -1,0 +1,62 @@
+outputhat23=16
+treein = 0
+compacttree = 0
+stacksize: 8192 kb
+rescale = 1
+All-to-all alignment.
+    0 / 44    1 / 44    2 / 44    3 / 44    4 / 44    5 / 44    6 / 44    7 / 44    8 / 44    9 / 44   10 / 44   11 / 44   12 / 44   13 / 44   14 / 44   15 / 44   16 / 44   17 / 44   18 / 44   19 / 44   20 / 44   21 / 44   22 / 44   23 / 44   24 / 44   25 / 44   26 / 44   27 / 44   28 / 44   29 / 44   30 / 44   31 / 44   32 / 44   33 / 44   34 / 44   35 / 44   36 / 44   37 / 44   38 / 44   39 / 44   40 / 44   41 / 44   42 / 44tbfast-pair (aa) Version 7.520
+alg=A, model=BLOSUM62, 2.00, -0.10, +0.10, noshift, amax=0.0
+0 thread(s)
+
+outputhat23=16
+Loading 'hat3.seed' ... 
+done.
+Writing hat3 for iterative refinement
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+tbutree = 1, compacttree = 0
+Constructing a UPGMA tree ... 
+    0 / 44   10 / 44   20 / 44   30 / 44   40 / 44
+done.
+
+Progressive alignment ... 
+STEP     1 /43 STEP     2 /43 STEP     3 /43 STEP     4 /43 STEP     5 /43 STEP     6 /43 STEP     7 /43 STEP     8 /43 STEP     9 /43 STEP    10 /43 STEP    11 /43 STEP    12 /43 STEP    13 /43 STEP    14 /43 STEP    15 /43 STEP    16 /43 STEP    17 /43 STEP    18 /43 STEP    19 /43 STEP    20 /43 STEP    21 /43 STEP    22 /43 STEP    23 /43 STEP    24 /43 STEP    25 /43 STEP    26 /43 STEP    27 /43 STEP    28 /43 STEP    29 /43 STEP    30 /43 STEP    31 /43 STEP    32 /43 STEP    33 /43 STEP    34 /43 STEP    35 /43 STEP    36 /43 STEP    37 /43 STEP    38 /43 STEP    39 /43 STEP    40 /43 STEP    41 /43 STEP    42 /43 STEP    43 /43 
+done.
+tbfast (aa) Version 7.520
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+1 thread(s)
+
+minimumweight = 0.000010
+autosubalignment = 0.000000
+nthread = 0
+randomseed = 0
+blosum 62 / kimura 200
+poffset = 0
+niter = 16
+sueff_global = 0.100000
+nadd = 16
+Loading 'hat3' ... done.
+rescale = 1
+
+    0 / 44   10 / 44   20 / 44   30 / 44   40 / 44
+Segment   1/  1    1-  25
+STEP 001-001-0  identical.   STEP 001-001-1  identical.   STEP 001-002-0  identical.   STEP 001-002-1  identical.   STEP 001-003-0  identical.   STEP 001-003-1  identical.   STEP 001-004-0  identical.   STEP 001-004-1  identical.   STEP 001-005-0  identical.   STEP 001-005-1  identical.   STEP 001-006-0  identical.   STEP 001-006-1  identical.   STEP 001-007-0  identical.   STEP 001-007-1  identical.   STEP 001-008-0  identical.   STEP 001-008-1  identical.   STEP 001-009-0  identical.   STEP 001-009-1  identical.   STEP 001-010-0  identical.   STEP 001-010-1  identical.   STEP 001-011-0  identical.   STEP 001-011-1  identical.   STEP 001-012-0  identical.   STEP 001-012-1  identical.   STEP 001-013-0  identical.   STEP 001-013-1  identical.   STEP 001-014-0  identical.   STEP 001-014-1  identical.   STEP 001-015-0  identical.   STEP 001-015-1  identical.   STEP 001-016-0  identical.   STEP 001-016-1  identical.   STEP 001-017-0  identical.   STEP 001-017-1  identical.   STEP 001-018-0  identical.   STEP 001-018-1  identical.   STEP 001-019-0  identical.   STEP 001-019-1  identical.   STEP 001-020-0  identical.   STEP 001-020-1  identical.   STEP 001-021-0  identical.   STEP 001-021-1  identical.   STEP 001-022-0  identical.   STEP 001-022-1  identical.   STEP 001-023-0  identical.   STEP 001-023-1  identical.   STEP 001-024-0  identical.   STEP 001-024-1  identical.   STEP 001-025-0  identical.   STEP 001-025-1  identical.   STEP 001-026-0  identical.   STEP 001-026-1  identical.   STEP 001-027-0  identical.   STEP 001-027-1  identical.   STEP 001-028-0  identical.   STEP 001-028-1  identical.   STEP 001-029-0  identical.   STEP 001-029-1  identical.   STEP 001-030-0  identical.   STEP 001-030-1  identical.   STEP 001-031-0  identical.   STEP 001-031-1  identical.   STEP 001-032-0  identical.   STEP 001-032-1  identical.   STEP 001-033-0  identical.   STEP 001-033-1  identical.   STEP 001-034-0  identical.   STEP 001-034-1  identical.   STEP 001-035-0  identical.   STEP 001-035-1  identical.   STEP 001-036-0  identical.   STEP 001-036-1  identical.   STEP 001-037-0  identical.   STEP 001-037-1  identical.   STEP 001-038-0  identical.   STEP 001-038-1  identical.   STEP 001-039-0  identical.   STEP 001-039-1  identical.   STEP 001-040-0  identical.   STEP 001-040-1  identical.   STEP 001-041-0  identical.   STEP 001-041-1  identical.   STEP 001-042-0  identical.   STEP 001-042-1  identical.   STEP 001-043-1  identical.   STEP 002-043-1  identical.   STEP 002-042-0  identical.   STEP 002-042-1  identical.   
+Converged.
+
+done
+dvtditr (aa) Version 7.520
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ G-INS-i (Suitable for sequences of similar lengths, very slow)
+ Iterative refinement method (<16) with GLOBAL pairwise alignment information
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
